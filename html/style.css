@@ -1,0 +1,20 @@
+/*Estilo index principal*/
+body{
+    background-image: url("/img/depositphotos_65902859-stock-photo-hospital-corridor.jpg");
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+h1,
+h2 {
+    margin-top: 20px;
+    text-align: center;
+}
